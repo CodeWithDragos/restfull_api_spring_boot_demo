@@ -21,8 +21,6 @@ Try to understand the code in the [payroll](src/main/java/payroll) folder and ex
 
 1. Add a `swagger` file to provide documentation for the API clients
   Note: *you can find step by step instructions [here](https://www.baeldung.com/swagger-2-documentation-for-spring-rest-api)*
-2. Add the property to the initial data in [LoadDatabase](src/main/java/payroll/LoadDatabase.java)
-
 
 ### Solution
 
