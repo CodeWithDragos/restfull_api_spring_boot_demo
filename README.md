@@ -21,6 +21,8 @@ Try to understand the code in the [payroll](src/main/java/payroll) folder and ex
 
 1. Check the `swagger` UI at [http://localhost:8080/swagger-ui.html](http://localhost:8080/swagger-ui.html)
 
+![swagger_ui](screens/swagger_ui.png)
+
 
 ### Solution
 
