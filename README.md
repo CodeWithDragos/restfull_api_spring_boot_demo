@@ -19,12 +19,10 @@ You need [Maven](https://maven.apache.org/install.html) installed in order to ru
 
 Try to understand the code in the [payroll](src/main/java/payroll) folder and extend it so the following is achieved:
 
-In the [Employee](src/main/java/payroll/Employee.java) file:
-1. Add a new property `salary` to the employee class 
+1. Add a `swagger` file to provide documentation for the API clients
+  Note: *you can find step by step instructions [here](https://www.baeldung.com/swagger-2-documentation-for-spring-rest-api)*
 2. Add the property to the initial data in [LoadDatabase](src/main/java/payroll/LoadDatabase.java)
 
-Check that the list at [localhost:8080/employees](http://localhost:8080/employees) should look like this:
-![api_list](screens/employees_solution.png)
 
 ### Solution
 
