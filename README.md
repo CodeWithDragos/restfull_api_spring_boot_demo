@@ -1,4 +1,4 @@
-# Simple HTTP APP with Spring Boot
+# RESTfull API with Spring Boot
 
 ### Getting Started :rocket:
 
